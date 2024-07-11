@@ -47,4 +47,3 @@ Develop a frontend application using Next.js to provide a user-friendly interfac
 - **Community Engagement**: Foster a supportive environment for users to connect and share experiences.
 
 This Next.js frontend application is designed to enhance user interaction with AiPainApp, focusing on usability, personalization, and community engagement for holistic health monitoring and support.
-# health-monitoring-nextjs-frontend
